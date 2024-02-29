@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.parrafo{
+    color: blueviolet;
+}
+#mostrarSumar{
+    background-color: aquamarine;
+    /* height: 20px; */
+}
+.container{
+    /* background-color: antiquewhite; */
+    min-height: 200px;
+}
+input{
+    border: 0;
+    background-color: transparent;
+}
